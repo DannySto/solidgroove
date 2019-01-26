@@ -7,11 +7,10 @@
 
 
 ## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+<a href="http://www.solidgrooverecords.tk/">Solid groove web page</a>
 
 ## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+You can find background images on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
 It's licensed under Creative-Commons.
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
